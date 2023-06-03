@@ -1,5 +1,5 @@
 
-**Repository Name**: `Global Inflation Data Tracker`
+**`Global Inflation Data Tracker`**
 
 **About**:
 
