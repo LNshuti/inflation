@@ -1,5 +1,5 @@
 
-**`Global Inflation Data Tracker`**
+**`Global Inflation Tracker`**
 
 **About**:
 
