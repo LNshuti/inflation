@@ -5,3 +5,11 @@ whitenoise
 dj-database-url 
 psycopg2
 pillow
+statsforecast
+requests
+re
+altair
+numpy
+pandas
+scipy
+statsmodels
