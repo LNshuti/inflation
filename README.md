@@ -5,7 +5,7 @@
 
 This repository contains the code for a data platform built to track inflation globally. This project leverages open-source models from Huggingface and small Repli.it models (3B parameters) for data processing and analysis. The project is implemented using Python, Docker, AWS and utilizes machine learning libraries such as Sklearn and Statsmodels.
 
-### **Components*
+### **Components**
 
 - **Data Acquisition**: Scripts for gathering and updating inflation data from reputable global financial sources, such as the International Monetary Fund (IMF), World Bank, and Federal Reserve Economic Data (FRED) from the Federal Reserve Bank of St. Louis.
 
