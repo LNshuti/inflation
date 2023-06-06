@@ -6,7 +6,9 @@
 This repository contains the code for a data platform built to track inflation globally. This interactive dashboard uses APIs such as FRED, the World Bank, and the IMF to download the latest inflation data.
 
 ## **Stack** 
-The project is implemented using Python, Docker, AWS and utilizes machine learning libraries such as Sklearn and Statsmodels.
+Python
+Docker
+AWS
 
 ### **Components**
 
